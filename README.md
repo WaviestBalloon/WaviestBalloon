@@ -1,1 +1,1 @@
-<iframe src="https://canary.discord.com/widget?id=772625019603386378&theme=light" width="250" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
