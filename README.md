@@ -15,7 +15,8 @@
 
 <p align="center"><strong>I'm a developer of Discordo, I do web-design and I love Node.JS<br>
 Since I'm a full-stack developer, I do frontend and backend<br>
-If you really want to, feel free to contact me on Discord and ask me for a website to be designed for you! 💙</strong></p>
+If you really want to, feel free to contact me on Discord and ask me for a website to be designed for you! 💙</strong><br>
+Feel free to fund my work at https://wav.blue/fund</p>
 
 <br>
 
