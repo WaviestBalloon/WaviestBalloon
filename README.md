@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   Software I use: <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord" />
+    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord,supabase" />
   </a>
   
   <br>
