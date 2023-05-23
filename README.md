@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   
   <br>
-  Check out my newest project: https://github.com/WaviestBalloon/github-pfp - An attempt to replicate GitHub's default profile pictures in TypeScript using Fastify and Canvas 
+  <b>Check out my newest project:</b> https://github.com/WaviestBalloon/github-pfp - An attempt to replicate GitHub's default profile pictures in TypeScript using Fastify and Canvas 
 </p>
