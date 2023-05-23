@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   
   <br>
-  Check out my environment: <a href="https://github.com/WaviestBalloon/WavyArch/tree/main">WavyArch - My personal script to setup my Arch environment after install</a>
+  Check out my newest project: https://github.com/WaviestBalloon/github-pfp - An attempt to replicate GitHub's default profile pictures in TypeScript using Fastify and Canvas 
 </p>
