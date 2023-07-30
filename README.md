@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   <br><br>
   <b>Tech I use:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,electron,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,tensorflow,vue" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,tensorflow,svelte" />
   </a>
   <b>Software I use:</b><br>
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   <br>
   <br>
   <a href="https://holopin.io/@waviestballoon">
-    <img src="https://holopin.onrender.com/waviestballoon"/>
+    <img src="https://www.holopin.io/api/user/board?user=waviestballoon"/>
   </a>
   <br>
   <br>
