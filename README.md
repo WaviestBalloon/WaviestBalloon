@@ -23,5 +23,5 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   <br>
   <br>
-  <b>Check out my newest project:</b> https://github.com/WaviestBalloon/github-pfp - An attempt to replicate GitHub's default profile pictures in TypeScript using Fastify and Canvas 
+  <b>Check out my newest project:</b> https://github.com/WaviestBalloon/RobloxFLogArchive - Roblox FLog Archive, a small service to archive plaintext FLogs in the Roblox Player binary.
 </p>
