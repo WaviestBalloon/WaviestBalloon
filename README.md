@@ -16,11 +16,12 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   <br>
   <b>Software I use:</b><br>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">Roblox bootstrapper for Linux 
     <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord,supabase" />
   </a>
   <br>
   <br>
   <br>
   <b>Check out my newest project:</b> <a href="https://github.com/WaviestBalloon/RobloxFLogArchive">Roblox FLog Archive</a>, a small service to archive plaintext FLogs in the Roblox Player binary.
+  <b>Currently working on:</b> <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux in CLI form.
 </p>
