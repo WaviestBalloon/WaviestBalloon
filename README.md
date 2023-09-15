@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   <!-- https://github.com/WaviestBalloon/github-pfp -->
   <br><b>WaviestBalloon</b><br>
   Self-taught full-stack programmer and sometimes graphic designer<br>
-  <i>I have tons of nicknames like, Wav, Wavi, Waviest, Wavy, Wave, Wavey</i><br><br>
+  <i>People call me a lot of abbreviations like, Wav, Wavi, Waviest, Wavy, Wave, Wavey</i><br><br>
   <img src="assets/archlinux_icon.svg" width=20px> <i>Average dumb Arch user here</i> <img src="assets/rotating_light.gif" width=20px><br>
   <img src="assets/rust.svg" width=20px> <i>Currently learning Rust</i><br>
   <br>
