@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=qgU8vnRQbEg
   </a>
   <br>
   <b>Software I use:</b><br>
-  <a href="https://skillicons.dev">Roblox bootstrapper for Linux 
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord,supabase" />
   </a>
   <br>
