@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://gitpfp.wav.blue/pfp?mag=0.5&wh=200&name=WaviestBalloon&colour=bedefa">
+  <img src="assets/logo.png" width=155px>
   <!-- https://github.com/WaviestBalloon/github-pfp -->
   <br><b>WaviestBalloon</b><br>
   Self-taught full-stack programmer and sometimes graphic designer<br>
@@ -21,7 +21,7 @@
   </a>
   <br>
   <br>
-  <br>
   <b>Check out my newest project:</b> <a href="https://github.com/WaviestBalloon/RobloxFLogArchive">Roblox FLog Archive</a>, a small service to archive plaintext FLogs in the Roblox Player binary.
   <b>Currently working on:</b> <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux in CLI form.
+  <br><img src="https://gitpfp.wav.blue/pfp?mag=0.5&wh=200&name=WaviestBalloon&colour=bedefa" width=20>
 </p>
