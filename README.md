@@ -9,7 +9,11 @@
   <i>People call me a lot of abbreviations like: Wav, Wavi, Waviest, Wavy, Wave, Wavey</i><br><br>
   <img src="assets/archlinux_icon.svg" width=20px> <i>Average dumb Arch user here</i> <img src="assets/rotating_light.gif" width=20px><br>
   <img src="assets/rust.svg" width=20px> <i>Currently learning Rust</i><br>
-  <br>
+</p>
+
+  ---
+  
+<p align="center">
   <b>Tech I use:</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,tensorflow,svelte" />
@@ -17,7 +21,7 @@
   <br>
   <b>Software I use:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord,supabase" />
+    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord" />
   </a>
   <br>
   <br>
