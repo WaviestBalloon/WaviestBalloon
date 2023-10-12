@@ -7,8 +7,8 @@
   <br><b>WaviestBalloon</b><br>
   Self-taught full-stack programmer and sometimes graphic designer<br>
   <i>People call me a lot of abbreviations like: Wav, Wavi, Waviest, Wavy, Wave, Wavey</i><br><br>
-  <img src="assets/archlinux_icon.svg" width=20px> <i>Average dumb Arch user here</i> <img src="assets/rotating_light.gif" width=20px><br>
-  <img src="assets/rust.svg" width=20px> <i>Currently learning Rust</i><br>
+  <img src="assets/archlinux_icon.svg" width=25px> <i>Average dumb Arch user here</i> <img src="assets/rotating_light.gif" width=25px><br>
+  <img src="assets/rust-logo-512x512.png" width=25px> <i>Currently learning Rust</i><br>
 </p>
 
   ---
@@ -16,7 +16,7 @@
 <p align="center">
   <b>Tech I use:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,tensorflow,svelte" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,svelte" />
   </a>
   <br>
   <b>Software I use:</b><br>
