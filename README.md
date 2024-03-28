@@ -16,12 +16,12 @@
 <p align="center">
   <b>Tech I use:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,powershell,py,tauri,threejs,svelte" />
+    <img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,py,tauri,threejs,svelte" />
   </a>
   <br>
   <b>Software I use:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,replit,cloudflare,raspberrypi,postman,nginx,linux,grafana,github,git,discord" />
+    <img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,cloudflare,postman,nginx,linux,grafana,github,git" />
   </a>
   <br>
   <br>
