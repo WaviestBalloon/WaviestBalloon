@@ -31,4 +31,5 @@
 </p>
 
 ```math
-\ce{$\unicode[nya; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.15; background: url('https://github.com/WaviestBalloon/WaviestBalloon/blob/main/assets/dark-cat-rosewater.png?raw=true'); background-size: 35% auto;]{x0000}$}
+\unicode[]
+```
