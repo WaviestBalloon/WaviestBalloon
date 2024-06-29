@@ -29,7 +29,3 @@
   <b>Currently working on:</b> <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux in CLI form.
   <br><img src="https://gitpfp.wav.blue/pfp?mag=0.5&wh=200&name=WaviestBalloon&colour=bedefa" width=20>
 </p>
-
-```math
-\unicode[]
-```
