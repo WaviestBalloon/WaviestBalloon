@@ -23,8 +23,8 @@
 
 | PROJECTS ||
 | :---: | :--- |
-| <img src="assets/new.png" width=24px><br><b><i>Featured</i></b>              | <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux written in Rust |
-| <img src="assets/workinprogress.png" width=42px><br><b><i>Working on</i></b> | <i>Various projects</i>                                                                                                      |
+| <img src="assets/new.png" width=28px><br><b><i>Featured</i></b>              | <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a><br><i>Roblox bootstrapper for Linux written in Rust</i> |
+| <img src="assets/workinprogress.png" width=28px><br><b><i>Working on</i></b> | <i>Various projects</i>                                                                                                             |
 
 </td></tr>
 </table>
