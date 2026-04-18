@@ -2,12 +2,9 @@
 	<img src="assets/logo.png" width=164px><br>
 	
 > I'm a self-taugh full-stack developer-girl who dabbles in the arts of creativity occasionally<br>
-> <sub><i>Finding out what sticks since <code>integer_here</code>!</i></sub>
+> <sub><i>Finding out what sticks since <code>%u</code>!</i></sub>
 
 </p>
-
-
-
 
 <table>
 	<tr></tr>
@@ -15,9 +12,10 @@
 
 | INFO  ||
 | :---: | :--- |
-| <img src="assets/archbtw.svg" width=32px>       | <i>Running Arch Linux with KDE Plasma                                       </i> |
+| <img src="assets/archbtw.svg" width=32px>       | <i>Running Arch Linux with KDE Plasma<br><sup>previously, i3-wm</sup></i>        |
 | <img src="assets/missingferris.png" width=32px> | <i>Currently learning Rust                                                  </i> |
-| <img src="assets/contact.png" width=32px>       | <i>[Contact me over Discord](https://discord.com/users/1133911326327066695) </i> |
+| <img src="assets/contact.png" width=32px>       | <i>Contact me over [Discord](https://discord.com/users/1133911326327066695) </i> |
+| <img src="assets/heart.png" width=32px>         | <i>Programming, graphics design and 3D modelling</i> |
 
 </td><td>
 
