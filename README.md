@@ -1,29 +1,44 @@
-<p align="right"><sup><sub><a href="https://www.youtube.com/watch?v=qgU8vnRQbEg">:3</a></sub></sup></p>
-<p align="center">
-  <img src="assets/logo.png" width=155px>
-  <!-- https://github.com/WaviestBalloon/github-pfp -->
-  <br><b>i just do some code stuff</b><br>
-  <sub><img src="assets/archlinux_icon.svg" width=16px> Running Arch Linux with KDE Plasma (prev: i3wm)</sub><br>
-  <sub><img src="assets/rust-logo-512x512.png" width=16px> Currently learning Rust</sub><br>
+<p>
+	<img src="assets/logo.png" width=164px><br>
+	
+> I'm a self-taugh full-stack developer-girl who dabbles in the arts of creativity occasionally<br>
+> <sub><i>Finding out what sticks since <code>integer_here</code>!</i></sub>
+
 </p>
 
-  ---
-  
-<p align="center">
-	<b>Tech I use:</b><br>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=js,ts,bash,rust,godot,html,css,lua,nodejs,py,tauri,threejs,svelte" />
-	</a>
-	<br>
-	<b>Software I use:</b><br>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,cloudflare,postman,nginx,linux,grafana,github,git" />
-	</a>
-</p>
+
+
+
+<table>
+	<tr></tr>
+	<tr><td>
+
+| INFO  ||
+| :---: | :--- |
+| <img src="assets/archbtw.svg" width=32px>       | <i>Running Arch Linux with KDE Plasma                                       </i> |
+| <img src="assets/missingferris.png" width=32px> | <i>Currently learning Rust                                                  </i> |
+| <img src="assets/contact.png" width=32px>       | <i>[Contact me over Discord](https://discord.com/users/1133911326327066695) </i> |
+
+</td><td>
+
+| PROJECTS ||
+| :---: | :--- |
+| <img src="assets/new.png" width=24px><br><b><i>Featured</i></b>              | <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux written in Rust |
+| <img src="assets/workinprogress.png" width=42px><br><b><i>Working on</i></b> | <i>Various projects</i>                                                                                                      |
+
+</td></tr>
+</table>
+
+<h1><img src="assets/softwarestack.png" width=48px> Software Stack</h1>
+
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=js,ts,bash,rust,html,css,lua,nodejs,py,svelte" />
+</a><br>
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=sentry,vercel,vscode,cloudflare,postman,nginx,linux,grafana,github,git" />
+</a>
 
 <br>
-<b>Check out my newest project:</b> <a href="https://github.com/WaviestBalloon/RobloxFLogArchive">Roblox FLog Archive</a>, a small service to archive plaintext FLogs in the Roblox Player binary.
-<br>
-<b>Currently working on:</b> <a href="https://github.com/WaviestBalloon/ApplejuiceCLI">ApplejuiceCLI</a>, a Roblox bootstrapper for Linux in CLI form.
 
-<br><img src="https://gitpfp.wav.blue/pfp?mag=0.5&wh=200&name=WaviestBalloon&colour=bedefa" width=20> <img src="assets/barcode.png" height=20>
+<br><img src="assets/telelink.png" height=32px> <img src="assets/hyper.png" height=32px>
+<p align="right"><sup><sub><a href="https://www.youtube.com/watch?v=qgU8vnRQbEg">:3</a> <a href="https://www.youtube.com/watch?v=6R0KuBEpjKg">X3</a></sub></sup></p>
