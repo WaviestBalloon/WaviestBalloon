@@ -12,10 +12,10 @@
 
 | INFO  ||
 | :---: | :--- |
-| <img src="assets/archbtw.svg" width=32px>       | <i>Running Arch Linux with KDE Plasma<br><sup>previously, i3-wm</sup></i>        |
+| <img src="assets/archbtw.svg" width=32px>       | <i>Running Arch Linux with KDE Plasma<br><sup>previously, i3-wm</sup>       </i> |
 | <img src="assets/missingferris.png" width=32px> | <i>Currently learning Rust                                                  </i> |
-| <img src="assets/contact.png" width=32px>       | <i>Contact me over [Discord](https://discord.com/users/1133911326327066695) </i> |
-| <img src="assets/heart.png" width=32px>         | <i>Programming, graphics design and 3D modelling</i> |
+| <img src="assets/contact.png" width=32px>       | <i>Contact me over [Discord](https://discord.com/users/1133911326327066695) <img src="http://discordpresence.wav.blue/api/status/1133911326327066695" width=12px>  </i> |
+| <img src="assets/heart.png" width=32px>         | <i>Programming<br>Graphics design<br>3D modelling                           </i> |
 
 </td><td>
 
